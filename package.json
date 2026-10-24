@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-grandparissud",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Grand Paris Sud Open Data (data.grandparissud.fr) — OpenDataSoft MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-3fa3726b972fc0b14c76524aa61f3b1f82e1b3b3acb8ae9b18227b70d241c971",
-    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
+    "sourceHash": "v1-bc041de82046c687ec9587c3443904a8c98444e1c6aa727ae43d39f2443e257a",
+    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
   }
 }
