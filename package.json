@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-grandparissud",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Grand Paris Sud Open Data (data.grandparissud.fr) — OpenDataSoft MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-grandparissud",
     "gatewaySlug": "data-grandparissud",
-    "sourceHash": "v1-e62c2d11f00a1cede3fedc52ae08ca9a6e763f5761165526d7844d933cda5be4",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-7c1bad6e7d001fc4d0e32a7c745894a30e0ef819595ea4a9bcdff3594528d929",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
